@@ -1,2 +1,4 @@
 # belajar-git
 HOTFIX
+
+RELEASE
